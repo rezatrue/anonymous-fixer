@@ -1,0 +1,91 @@
+Name:	Anonymous
+Phone:	Private
+Email:	epevel@uplink.net
+Location:	
+Work Status:	
+Last Modified:	 2/5/2002
+Last Activity:	 2/5/2002
+
+Experience
+Total years experience:	
+Job Categories:	
+Additional Skills And Qualifications
+Recent Job Title:		 Recent Wage:	
+Languages Spoken:		 Managed Others:	
+Security Clearance:	 No	 Military Experience:	
+
+Desired Position
+Desired Wages:		 Desired Employment Type:	
+Desired Travel:		 Desired commute:	
+Desired Relocation:	
+
+Resume
+
+Evan P. Eveland
+213 West 3rd Street
+Bloomsburg, PA 17815
+(570) 387-4950
+E- Mail: epevel@uplink.net
+
+OBJECTIVE To apply skills acquired in classes and in work with
+the open source community to a full-time position in the IT field.
+
+EDUCATION BS, Computer Science, Expected graduation date
+May 2002
+Bloomsburg University, Bloomsburg, PA, GPA: 3.05
+
+Doctor of Chiropractic, December 1997
+New York Chiropractic College, Seneca Falls, NY
+Honors: Dean's List, GPA: 3.4
+
+BS, Health Science, August 1993
+Lock Haven University, Lock Haven, PA
+Honors: Cum Laude, Dean's List, GPA: 3.55
+
+EXPERIENCE Quality Assurance/TSR, January 2001 – present
+ICT Group, Bloomsburg, PA
+Duties include monitoring telephone sales representatives for
+quality control purposes, providing appropriate feedback and
+maintaining records of said monitoring.
+
+Contributing Writer, January 2001
+Linux Format magazine, Future Publishing, Bath, UK
+Duties include researching and writing material for for UK’s
+largest Linux magazine.
+
+Contributing Editor, December 1999 – January 2001
+Maximum Linux magazine, Imagine Media, Brisbane, CA
+Duties include researching, writing and editing material for
+print and on-line publication for international Linux enthusiast
+magazine.
+
+Chiropractor, June 1999 – February 2000
+Westford Rehabilitation, Plains, PA
+Sole doctor in Satellite office for Excaliber Chiropractic
+Group
+Duties include patient evaluation, treatment, and care as well
+as shooting, developing and interpreting X-rays.
+
+Chiropractor, January 1998 – June 1999
+Private Practice, Bloomsburg, PA
+Sole doctor in a small, solo practice.
+Duties include patient evaluation, treatment, and care.
+
+SUPPORTIVE SKILLS Development- C/C++, Java, OpenGL and SQL on
+Linux and Windows 9x-XP platforms. Bash scripting and Perl on Linux
+platform. x86 asm and VB on Windows 9x-XP platform.
+
+Administration- Windows NT4/2000 and Linux platforms using
+NFS,SMB, DNS, DHCP, POP, SMTP, NNTP, HTTP, SQL and others on mixed
+Windows, Linux and BeOS network. Installed OSs include various Linux
+distributions, BeOS 4.5-5, FreeBSD2.2.8-4.0, Windows 3.x-9x, NT4.0-XP,
+Solaris 7 x86. SMB print and file sharing on Linux server, IP
+forwarding/Firewalling using IP Chains and IP Tables, SSH server on
+Linux machine including VNC over SSH. Classroom Beowulf clustering
+administration experience using MPI over SSH. QNX, Solaris 7 and
+FreeBSD administration experience.
+
+Documentation- KBasic documentation; largely correcting English
+translations.
+
+REFERENCES Available on request

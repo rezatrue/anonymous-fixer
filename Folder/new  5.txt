@@ -1,0 +1,181 @@
+Name:	Anonymous
+Phone:	Not specified
+Email:	mcanfield@ftmc.com
+Location:	
+Work Status:	
+Last Modified:	 6/24/2003
+Last Activity:	 6/24/2003
+
+Experience
+Total years experience:	
+Job Categories:	
+Additional Skills And Qualifications
+Recent Job Title:		 Recent Wage:	
+Languages Spoken:		 Managed Others:	
+Security Clearance:	 No	 Military Experience:	
+
+Desired Position
+Desired Wages:		 Desired Employment Type:	
+Desired Travel:		 Desired commute:	
+Desired Relocation:	
+
+Resume
+
+Michael J. Canfield
+4489 Laylin Road
+Norwalk, Ohio 44857
+(419) 681-5195
+mcanfield@ftmc.com
+
+Work Experience
+November 1996 - Present, Fisher-Titus Medical Center
+Director of Information Systems since June 1997. Responsible for all
+hospital computer systems and telecommunications. Responsible for
+providing core applications to a second hospital. Currently managing a
+staff of 20 with a 1.2 million dollar operating budget. Managed
+application beta testing and major infrastructure upgrades including PC
+replacement program and implementation of redundant systems for main
+information system. Oversaw application development for 3 new hospital
+services and 5 new facilities including equipment selection, wiring,
+installation and configuration. Chaired Technology Integration
+Committee to coordinate introduction of new systems into the
+enterprise. Implemented WAN to connect 13 physician offices to
+hospital services and systems.
+
+Started a consulting company (The Fisher Group) associated with the
+medical center to provide computer consulting services to other
+hospitals, physicians and companies. The hospital allows current
+employees to engage is short term consulting projects to provide for
+personal growth, additional compensation, and the opportunity to bring
+new ideas back to Fisher-Titus Medical Center.
+
+Led a team to select and implement an ambulatory electronic medical
+record in several physician offices associated with the hospital’s
+Medical Services Organization. Required reviewing RFI, coordinating
+product demonstrations and follow up discussions with physicians.
+Implementation required detailed involvement with office setup and
+product rollout.
+
+Negotiated an outsourcing agreement with an area hospital to provide
+their information systems services. Magruder Hospital now runs
+entirely on Fisher-Titus systems and is supported by our staff.
+
+Led a multidisciplinary team to select and implement a replacement
+solution for the hospital’s main information system. The year long
+project touched every department in the hospital and required
+continuous communication with vendors, customers, senior management and
+department staff.
+
+Worked with executive management to create a technology steering
+committee for the medical center to coordinate and prioritize strategic
+system acquisitions. I continue to serve on that committee.
+
+June - August 1996, Amdahl Corp., Senior Software Design Engineer
+Providing system support and operating system development on
+large-scale Unix system. Required in depth knowledge of Unix operating
+system, S370/S390 architecture, C programming and customer interface
+skills.
+
+July 1994 - May 1996, Independent Consultant
+Taught C programming courses on several occasions for Lowe's Companies.
+Developed and executed Statements of Work for Amdahl Corp. to provide
+front end processor conversion and project coordination services to
+their customer.
+
+February 1994 - July 1994, Lowe's Companies, MIS Analyst II
+Provided Unix system support to local developers, taught C programming
+courses, evaluated and purchased hardware for warehouse environment and
+managed initial install of computer systems in new automated
+distribution center. Assisted in network hardware and software
+installation and configuration (Token ring/TCP/IP).
+
+April 1993 - November 1993, Amdahl Corp., System Engineer Specialist
+Provided world-wide level 3 support of the UTS operating system from a
+home office. In this headquarters customer service position I was
+responsible for problem resolution for Amdahl UTS software. Required
+thorough knowledge of Unix internals, C programming, system dump
+analysis, and S370/S390 architecture.
+
+October 1990 - April 1993, Amdahl Corp., System Engineer
+Provided on site hardware and software support for Amdahl products and
+services. Responsible for customer satisfaction with Amdahl products.
+Activities included software problem isolation, escalation, and
+tracking. Also responsible for hardware problem isolation and field
+repair. Participated in and led hardware and software installations,
+maintenance, and upgrades. Cross-trained on processor and DASD
+products.
+
+May 1987 - October 1990, AT&T Bell Laboratories, Member of Technical
+Staff (MTS)
+Provided Unix system programming support to local data center serving
+1000 end users. Responsible for training operators and system
+administrators, system enhancements, and software/hardware problem
+determination and escalation. Worked extensively with compilers,
+kernel modifications and dump analysis. Serving as department quality
+advisor, I reported directly to second level management and was
+responsible for all department quality activities, education, and
+programs.
+
+
+Education
+
+Ashland University, Ashland, Ohio
+Currently enrolled in MBA program
+Graduation date TBD
+
+The Ohio State University, Columbus, Ohio
+M.S. Computer Science, December 1988
+
+Muskingum College, New Concord, Ohio
+B.S. Computer Science, May 1986
+Summa Cum Laude
+
+Western Reserve High School, Collins, Ohio
+Salutatorian, June 1982
+
+
+Computer Systems
+
+Extensive experience with IBM compatible mainframes and peripherals,
+IBM R/S6000, Unix systems (several derivatives of SVR3,SVR4, BSD), IBM
+PC, MAC, MS-DOS, iSeries 400, Microsoft Windows 2000, 95, 98, NT,
+Foxpro, Visual Basic, and various PC applications. Familiar with DEC
+OpenVMS, Various Browsers, HTML, XML. Experience with TCP/IP, Token
+ring, SLIP, and PPP networking
+
+Familiar with a wide variety of desktop applications including Open
+Office, Microsoft Office, Crystal Reports and various ODBC drivers and
+emulators.
+
+Extensive experience with hospital information systems including
+pharmacy, laboratory, radiology, PACS, patient accounting, patient
+registration, materials distribution and general financials.
+
+
+
+Professional Interests
+
+Electronic medical record systems and national EHR initiatives
+Healthcare information standards efforts
+Corporate IT strategy and governance
+Corporate IT culture
+
+
+Computer Skills
+
+Project management
+Software development and support
+Hardware fault isolation and field repair
+All aspects of Unix system support and administration
+Hardware and software installation and configuration
+
+
+General Skills
+
+Integration and creativity
+Technical training and education
+Leadership
+Excellent written and oral communications
+Customer and vendor interface management
+Problem solving
+Technical marketing support

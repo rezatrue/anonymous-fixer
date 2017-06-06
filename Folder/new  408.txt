@@ -1,0 +1,213 @@
+Name:	Anonymous
+Phone:	Not specified
+Email:	larry@allvb.com
+Location:	
+Work Status:	
+Last Modified:	 6/7/2003
+Last Activity:	 6/7/2003
+
+Experience
+Total years experience:	
+Job Categories:	
+Additional Skills And Qualifications
+Recent Job Title:		 Recent Wage:	
+Languages Spoken:		 Managed Others:	
+Security Clearance:	 No	 Military Experience:	
+
+Desired Position
+Desired Wages:		 Desired Employment Type:	
+Desired Travel:		 Desired commute:	
+Desired Relocation:	
+
+Resume
+
+Resume of
+Larry G. Harless
+560 Arthur St
+Novato, CA 94947
+(415) 892-8997
+larry@allvb.com
+
+OBJECTIVE
+
+A senior level software development position that allows me to
+contribute my superior application development and enterprise database
+skills and where my commitment to delivering high-quality software will
+be put to use in a challenging environment.
+
+PROFESSIONAL EXPERIENCE
+
+CISCO SYSTEMS, INC., San Jose, CA
+Database and Application Consultant Apr 2003 - Present
+
+•Developed a Visual Basic URL Verification application to automatically
+check URLs in database tables and generate a report of broken links.
+
+•Evaluated, analyzed, and improved an existing VBA MS Access database
+application used to manage Cisco’s bank of on-line training materials
+and test questions. Short-term improvements included developing and
+automating reports for deployment on the corporate intranet along with
+fixes and enhancements to the UI.
+
+•Suggestions for the longer-term included upsizing the database to one
+of Cisco’s in-house enterprise DBMS systems and re-developing the
+client application for the web in ASP.NET or JSP for reliability and
+scalability.
+
+
+BLUE SHIELD OF CALIFORNIA, San Francisco, CA
+Lead Application Developer Nov 2001 - Apr 2003
+
+Developed a critical multi-user application and database (VB.NET,
+Oracle, C#, MS Access) that was essential to the company’s NCQA
+accreditation.
+
+Upon reviewing the existing MS Access database application, challenges
+identified were:
+•Lack of application and source code documentation
+•Poor application and database design
+•Poor coding techniques
+•An extensive requirements list
+•An extremely narrow time frame
+
+The new client application was developed in VB.NET and C#. Visio for
+Enterprise Architects and Erwin were used to design and model the
+application and the new Oracle database. Reports were created in
+Crystal Reports and were made available in PDF, Word, Excel and HTML.
+
+Success in this project was achieved by:
+•Quickly coming up to speed on the HEDIS healthcare specification and
+developing a requirements document
+•Working closely with the project manager and business users
+•Choosing the correct tools for the client’s environment
+•Implementing proper coding standards and object oriented techniques
+•Instituting a software testing program
+•Development and implementation of an issue reporting and tracking
+system
+
+
+GEMTEQ SOFTWARE, INC.., Novato, CA
+Lead Software Developer Jan 2000 - Nov 2001
+
+Developed a commercially-sold shrink-wrap knowledge-management software
+product (eGems). Responsibilities included the entire development
+life-cycle. This position required superior design and development
+skills including needs-analysis, specification writing, system
+architecture, coding application logic, user-interface design and
+development, testing, and complete on-line and printed documentation.
+
+•Designed and coded the flagship software product using Microsoft
+technologies (VB6, C++, SQL Server, MS Access, HTML, XML and TCPIP,
+Visio)
+
+•Features of the application included seamless connectivity to various
+enterprise databases, data input from various hardware devices such as
+scanners and electronic pens, drag and drop from any application.
+
+
+WOMAN’S HOSPITAL, Baton Rouge, LA
+Lead Applications Developer Jan 1998 - Jan 2000
+
+Tasked with developing custom client, client server (Windows, MS
+Access, Visual Basic, C++, SQL Server, Oracle, Crystal Reports, TCPIP,
+COM, DCOM, COM+, MSMQ, MTS, Meditech) and web-based (IIS, Visual
+Interdev, ASP, HTML, Front Page) software solutions for all hospital
+departments, I met with department directors to identify potential
+areas of improvement and worked closely with department personnel to
+develop solutions in these areas. Promoted to Development Manager;
+hired, trained and supervised a team of four developers and the DBA.
+
+•Designed, developed, implemented, and maintained numerous software
+solutions including over 30 Visual Basic and MS Access/SQL Server
+database applications.
+•Integrated disparate mainframe and client-server software systems and
+databases
+•Developed the company intranet
+•Designed and developed custom reports
+•Implemented EDI for the Materials Management department
+•Administered all enterprise databases
+
+
+APPRO SYSTEMS, Baton Rouge, LA
+Database and Software Support Technician Jun 1997 - Jan 1998
+
+•Remotely administered multiple MS SQL server databases via RAS.
+•Designed complex custom reports based on these databases with Crystal
+Reports
+•Assisted software developers in identifying software defects
+•Provided top-level support for custom credit scoring software
+developed in Visual Basic and C++
+
+
+SELF-EMPLOYED, Baton Rouge, LA
+IT Consultant Jan 1994 - Aug
+1997
+
+•Worked with clients to design solutions for their business needs.
+Developed custom client, client server and database solutions using
+various tools including C++, Visual Basic, SQL Server, Oracle, MS
+Access, MS Exchange and process automation tools
+•Planned, designed and implemented Windows NT and Novell Netware
+networks
+•Trained customers and developed documentation for their new systems
+
+
+EDUCATION AND PROFESSIONAL TRAINING
+
+Southeastern Louisiana University
+Bachelor’s degree Computer Science / Military Science
+
+Louisiana State University
+Computer Science / Information Systems and Decision Sciences
+
+Application Developers Training Company (APPDEV)
+Visual Basic Programming Fundamentals, Programming Visual Basic
+Applications, Advanced Visual Basic Development (COM)
+
+Productivity Point
+Visual Basic 6 Distributed Applications (DCOM)
+
+Neon/Microscript Corp.
+Basic Interface Development with Visual Basic
+Advanced Interfacing with Visual basic and MicroScript Server
+
+Appro Systems
+Advanced Crystal Reports
+
+Iatric Systems
+Advanced MAGIC Programming
+
+Meditech (Medical Information Technology, Inc.)
+Beginning and Intermediate NPR report writer
+Introduction to MAGIC programming
+
+U.S. Army
+Military Intelligence Officer Basic and Advanced courses
+Defense Language Institute, Russian Language
+Nuclear, Biological, and Chemical Defense School
+Trained in all aspects of personnel and unit management
+Supervised and trained units of up to 40 personnel
+
+
+SKILLS
+
+Programming Languages:
+•Expert Visual Basic Developer, Version 3 through .NET
+•ASP.NET, C#
+•VBA in MS Office
+
+Mark-up & Web:
+•Superior HTML and XML Skills
+•VB Script and Java Script
+
+Platforms & Technologies:
+•Windows 3.1, 95, 98, NT, 2000, XP
+•SQL Server and Oracle with ADO.NET/ADO/DAO/ODBC
+•Systems Interfacing and Integration
+•Electronic Data Interchange (EDI)
+•Linux
+
+Tools:
+•MS Visual Studio, Access, FrontPage
+•Visio, Erwin, Business Objects, Toad
+•Macromedia Dreamweaver, Coldfusion, Fireworks
